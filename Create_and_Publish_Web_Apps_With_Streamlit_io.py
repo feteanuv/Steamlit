@@ -3,6 +3,7 @@ import pandas
 
 
 data = {
+    'Nume':['Viorel', 'Adriana', 'Maricica', 'Claudia', 'Pavel'],
     'Series_1':[1, 2, 3, 4, 6],
     'Series_2':[10, 20, 30, 50, 70]
 }
