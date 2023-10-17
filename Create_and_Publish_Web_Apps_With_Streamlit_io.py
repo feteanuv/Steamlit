@@ -3,7 +3,6 @@ import pandas
 
 
 data = {
-    'Series_0':[5, 15, 30, 45, 47],
     'Series_1':[1, 2, 3, 4, 6],
     'Series_2':[10, 20, 30, 50, 70]
 }
